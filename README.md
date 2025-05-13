@@ -26,7 +26,6 @@ https://github.com/dessiflomer33/Powershell-test-payload-harmless/blob/main/phis
 
 ---
 
-![Screenshot 2025-01-26 181108](https://github.com/user-attachments/assets/7b9ccc9f-e290-4125-8990-2e2de03d2d45)
 
 ![Screenshot 2025-01-26 130233](https://github.com/user-attachments/assets/e154a3c3-0a2f-4748-91af-0cc28bfa73a0)
 
